@@ -1,5 +1,3 @@
-# 📡 IoT - Internet das Coisas com Python e C++
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=IoT%20com%20Python%20e%20C%2B%2B&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
