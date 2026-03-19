@@ -1,9 +1,10 @@
 # 📡 IoT - Internet das Coisas com Python
 
-![GitHub repo size](https://img.shields.io/github/repo-size/CharlesFreitas-DEV/IoT)
-![GitHub last commit](https://img.shields.io/github/last-commit/CharlesFreitas-DEV/IoT)
-![GitHub](https://img.shields.io/github/license/CharlesFreitas-DEV/IoT)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Linguagem](https://img.shields.io/badge/LINGUAGEM-PYTHON-informational?style=plastic&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellowgreen?style=plastic)
+![Commits](https://img.shields.io/github/commit-activity/w/CharlesFreitas-DEV/IoT?label=COMMITS&style=plastic)
+![Última Atualização](https://img.shields.io/github/last-commit/CharlesFreitas-DEV/IoT?label=ATUALIZAÇÃO&style=plastic)
+![Licença](https://img.shields.io/github/license/CharlesFreitas-DEV/IoT?label=LICEN%C3%87A&style=plastic)
 
 ---
 
