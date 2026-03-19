@@ -1,5 +1,15 @@
 # 📡 IoT - Internet das Coisas com Python e C++
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=IoT%20com%20Python%20e%20C%2B%2B&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55" height="55"/>
+</p>
+
 ![Python](https://img.shields.io/badge/LINGUAGEM-PYTHON-informational?style=plastic&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/LINGUAGEM-C%2B%2B-informational?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellowgreen?style=plastic)
