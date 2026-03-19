@@ -1,6 +1,7 @@
-# 📡 IoT - Internet das Coisas com Python
+# 📡 IoT - Internet das Coisas com Python e C++
 
-![Linguagem](https://img.shields.io/badge/LINGUAGEM-PYTHON-informational?style=plastic&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/LINGUAGEM-PYTHON-informational?style=plastic&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/LINGUAGEM-C%2B%2B-informational?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellowgreen?style=plastic)
 ![Commits](https://img.shields.io/github/commit-activity/w/CharlesFreitas-DEV/IoT?label=COMMITS&style=plastic)
 ![Última Atualização](https://img.shields.io/github/last-commit/CharlesFreitas-DEV/IoT?label=ATUALIZAÇÃO&style=plastic)
@@ -10,7 +11,7 @@
 
 ## 🚀 Objetivo
 
-Facilitar o aprendizado de **Internet das Coisas (IoT)** por meio de exemplos práticos utilizando Python, permitindo que estudantes e desenvolvedores explorem diferentes cenários de integração entre software e hardware.
+Facilitar o aprendizado de **Internet das Coisas (IoT)** por meio de exemplos práticos utilizando Python e C++, permitindo que estudantes e desenvolvedores explorem diferentes cenários de integração entre software e hardware.
 
 ---
 
@@ -31,7 +32,8 @@ Aqui você encontrará:
 ## 🧠 Tecnologias e Conceitos Abordados
 
 - Python para IoT  
-- Microcontroladores (ex: ESP32, Raspberry Pi)  
+- C++ para microcontroladores (Arduino, ESP32)  
+- Microcontroladores (ESP32, Raspberry Pi)  
 - Protocolos de comunicação (MQTT, HTTP, WebSockets)  
 - Sensores e atuadores  
 - Computação em borda (Edge Computing)  
@@ -79,6 +81,7 @@ Dependendo do projeto:
 
 - Bibliotecas específicas (descritas em cada pasta)  
 - Dispositivos físicos (ESP32, sensores, etc.)  
+- IDE Arduino / PlatformIO (para projetos em C++)  
 - Broker MQTT (ex: Mosquitto)  
 
 ---
@@ -97,21 +100,20 @@ git clone https://github.com/CharlesFreitas-DEV/IoT.git
 cd IoT
 ```
 
-3. (Opcional) Crie um ambiente virtual:
+3. Para projetos em Python:
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
-```
-
-4. Instale as dependências (quando houver):
-
-```bash
 pip install -r requirements.txt
 ```
 
-5. Execute os exemplos conforme instruções de cada pasta.
+4. Para projetos em C++:
+
+- Abra o código na IDE Arduino ou PlatformIO  
+- Configure a placa (ESP32, Arduino, etc.)  
+- Compile e faça upload para o dispositivo  
 
 ---
 
@@ -121,6 +123,7 @@ pip install -r requirements.txt
 - Automação residencial (luzes, ventilação, etc.)  
 - Sistemas de alerta com sensores  
 - Comunicação entre dispositivos via MQTT  
+- Integração entre firmware (C++) e backend (Python)  
 - Dashboards simples para visualização de dados  
 
 ---
